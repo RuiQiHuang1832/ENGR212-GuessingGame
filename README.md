@@ -17,6 +17,7 @@ they have ten guesses again. The program should end once the user finally guesse
 the right number. "
 
 I just realized my odd/even code fragment only works for the first number generated. 
+
 I will update when possible
 
 
