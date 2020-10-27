@@ -12,3 +12,7 @@ be given and the user should be notified that a new number has been picked and
 they have ten guesses again. The program should end once the user finally guesses
 the right number. "
 
+I just realized my odd/even code fragment only works for the first number generated 
+I will update when possible
+
+
